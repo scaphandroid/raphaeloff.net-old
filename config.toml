@@ -29,10 +29,10 @@ DefaultContentLanguage           = "fr"                    # Default language fo
 
     # Share buttons on blog post pages
     [params.share]
-        twitter                  = true
-        facebook                 = true
-        googlePlus               = true
-        pinterest                = true
+        twitter                  = false
+        facebook                 = false
+        googlePlus               = false
+        pinterest                = false
 
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
@@ -85,4 +85,7 @@ DefaultContentLanguage           = "fr"                    # Default language fo
         [languages.fr.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
+
+[imaging]
+    quality = 90
 

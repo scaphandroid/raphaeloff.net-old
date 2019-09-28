@@ -1,7 +1,7 @@
 ---
 title: "À Propos"
-image: "profile.jpg"
-weight: 8
+image: "profile-high.jpeg"
+weight: 0
 ---
 
 Je suis chef de projet multimédia et développeur, basé à Genève, mobile sur la France et la Suisse.
