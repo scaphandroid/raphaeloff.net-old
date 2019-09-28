@@ -1,5 +1,5 @@
 ---
-title: "Diseño"
+title: "Voyage Family"
 weight: 2
 resources:
     - src: plant.jpg

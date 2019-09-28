@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum"
+title: "Ailleurs"
 weight: 30
 ---
 

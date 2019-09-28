@@ -5,4 +5,6 @@ headless: true
 
 [Développeur Web]
 
+---
+
 [Chef de Projet Multimédia]
