@@ -22,3 +22,14 @@ body {
 .navbar-item, .navbar-link {
     color: #dbdbdb;
 }
+
+#technologies ul {
+    padding: 0;
+    margin: 0;
+}
+
+#technologies li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
